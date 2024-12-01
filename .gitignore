@@ -1,0 +1,9 @@
+data/
+.DS_Store
+
+*.pt
+*.pth
+*.pkl
+*.csv
+*.log
+*.json
